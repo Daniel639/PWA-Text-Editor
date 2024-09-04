@@ -20,7 +20,7 @@ To install and run this project locally, follow these steps:
 2. Navigate to the project directory.
 3. Run `npm install` to install the dependencies.
 4. Run `npm run start:dev` to start the development server.
-5. Open your browser and visit `http://localhost:8080`.
+5. Open your browser and visit `http://localhost:3000`.
 
 To install the application as a PWA, click the "Install!" button in the application's header.
 
